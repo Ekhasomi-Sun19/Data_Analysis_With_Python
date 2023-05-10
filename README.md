@@ -46,6 +46,6 @@ Json
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Wikipedia, Data Science]([https://www.w3schools.com/html/default.asp](https://en.wikipedia.org/wiki/Data_science))
-* [Overview of Pandas]([https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98/](https://pandas.pydata.org/docs/getting_started/overview.html))
-* [What is R]([https://www.r-project.org/about.html))
+* [Wikipedia, Data Science](https://en.wikipedia.org/wiki/Data_science)
+* [Overview of Pandas](https://pandas.pydata.org/docs/getting_started/overview.html)
+* [What is R](https://www.r-project.org/about.html)
